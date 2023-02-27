@@ -1,0 +1,2 @@
+# reducerConcept
+studing reduces
